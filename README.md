@@ -5,7 +5,7 @@ Reliable Attribute-Missing Multi-View Clustering with Instance-Level and Feature
 ![Framework](https://github.com/DayuHuu/RAMMVC/blob/master/f2.jpg)
 
 **Description:**  
-This is the official source code for **Reliable Attribute-Missing Multi-View Clustering with Instance-Level and Feature-Level Cooperative Imputation.** If you have any questions, please feel free to contact me at hzauhdy@gmail.com.
+This is the official source code for **Reliable Attribute-Missing Multi-View Clustering with Instance-Level and Feature-Level Cooperative Imputation.** If you have any questions, please feel free to contact me at hudy@bmie.neu.edu.cn.
 
 **How to Run:**  
 ```Matlab
